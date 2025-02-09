@@ -6,12 +6,8 @@ import { AiOutlineMail } from 'react-icons/ai';
 const Header = () => (
 
   <section>
-
-    <div className="rs-green-text text-center font-weight-bold rs-pt-10 rs-profile-title">Program Manager | Project Manager | Scrum Master | UI Manager | Product Owner | Business Analyst</div>
-
-
+    <div className="rs-green-text text-center font-weight-bold rs-pt-10">Program Manager | Project Manager | Scrum Master | UI Manager | Product Owner | Business Analyst</div>
     <div className="row justify-content-between align-items-top">
-
 
       <div className="col-md-4">
         <img src={ProfileImg} alt="avatar" className="rs-avatar" />

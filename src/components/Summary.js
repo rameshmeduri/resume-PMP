@@ -6,7 +6,7 @@ const Summary = () => (
     <div className="rs-green-text rs-mt-10">Professional Summary</div>
     <ul className="rs-list">
       <li className="rs-list-item"><code>Project Management</code> : Lead the full Project lifecycle, ensuring projects meet scope / budget / time / quality</li>
-      <li className="rs-list-item"><code>Change Management</code> : Manage changes to the Project ( scope / schedule / cost ) using verification techniques ( earned value management / critical path analysis / WBS )</li>
+      <li className="rs-list-item"><code>Change Management</code> : Manage changes to the Project ( scope / schedule / cost ) using verification techniques ( earned value management / critical path analysis / Work Breakdown Structure )</li>
       <li className="rs-list-item"><code>Risk Management</code> : Identify and mitigate Project risks, ensuring adherence to regulatory requirements and compliance standards</li>
       <li className="rs-list-item"><code>Cost Management</code> : Estimating the costs of all resources required to complete the Project successfully</li>
       <li className="rs-list-item"><code>Release Management</code> : successful roll-out of new features, bug fixes while maintaining system stability</li>

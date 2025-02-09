@@ -8,7 +8,7 @@ import './dark.css';
 
 import Header from './components/Header';
 import Summary from './components/Summary';
-// import Tags from './components/Tags';
+import Tags from './components/Tags';
 import SkillSet from './components/SkillSet';
 import Experience from './components/Experience';
 import Education from './components/Education';
@@ -22,7 +22,7 @@ const App = () => {
         <Header />
         <Devider />
         <Summary />
-        {/* <Tags /> */}
+        <Tags />
         <SkillSet />
         <Experience />
         <Education />

@@ -7,9 +7,6 @@ const Tags = () => (
     <div className="rs_tag_box">
 
       <span className="rs-tag"><code>Web_App</code></span>
-      <span className="rs-tag"><code>SPA ( Single Page Application )</code></span>
-      <span className="rs-tag"><code>MPA ( Multi Page Application )</code></span>
-
       <span className="rs-tag"><code>REST_GraphQL_API</code></span>
       <span className="rs-tag"><code>SQL</code></span>
       <span className="rs-tag"><code>NoSQL</code></span>
@@ -26,7 +23,7 @@ const Tags = () => (
 
       <span className="rs-tag"><code>Banking_Projects</code></span>
       <span className="rs-tag"><code>Digital_Transformation</code></span>
-      <span className="rs-tag"><code>RFP ( Request for Proposal )</code></span>
+      <span className="rs-tag"><code>RFP</code></span>
       
     </div>
   </section>
